@@ -1,3 +1,4 @@
+// 自动适配文件
 const reset = (function() {
   function autoRootFontSize() {
     var html = document.documentElement;

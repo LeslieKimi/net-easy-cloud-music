@@ -14,7 +14,12 @@ export default {
 
 <style lang="scss" scoped>
 .swiper {
+  width: 22.1875rem;
+  height: 8.4375rem;
+  margin: 0 auto;
+  background: pink;
   .wrapper {
+    height: 100%;
   }
 }
 </style>

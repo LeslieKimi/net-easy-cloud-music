@@ -1,0 +1,58 @@
+{
+  "id": "1708907",
+  "name": "高仿网易云音乐",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "827645",
+      "name": "麦克风",
+      "font_class": "maikefeng",
+      "unicode": "e65f",
+      "unicode_decimal": 58975
+    },
+    {
+      "icon_id": "5515681",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "688101",
+      "name": "视频 播放 影片 2",
+      "font_class": "shipinbofangyingpian2",
+      "unicode": "e78e",
+      "unicode_decimal": 59278
+    },
+    {
+      "icon_id": "4187229",
+      "name": "朋友",
+      "font_class": "pengyou",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "5330671",
+      "name": "音乐",
+      "font_class": "yinle",
+      "unicode": "e7b8",
+      "unicode_decimal": 59320
+    },
+    {
+      "icon_id": "6275287",
+      "name": "我的",
+      "font_class": "icon-test",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "8758486",
+      "name": "发现",
+      "font_class": "faxian",
+      "unicode": "e6bd",
+      "unicode_decimal": 59069
+    }
+  ]
+}
